@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ginarusso, a web developer/designer and educational technology specialist.
-- 👀 I’m interested in frontend develoipment, physical computing and using microcontrollers, servo motors, light emitting diodes, breadboards, resistors, and other components and connecting them to real-world applications, designing fun, useful creations.
+- 👀 I’m interested in frontend development, physical computing and using microcontrollers, servo motors, light emitting diodes, breadboards, resistors, and other components and connecting them to real-world applications, designing fun, useful creations.
 - 🌱 My skills include Python & Raspberry Pi, HTML, CSS, Javascript, and React and I'm currently a code reviewer for Scrimba.
 - My Scrimba playlists include my:
   -   code reviews of Scrimba bootcamp students' code: https://scrimba.com/playlist/pENgeCM
