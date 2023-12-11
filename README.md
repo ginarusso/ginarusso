@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ginarusso, a web developer/designer and educational technology specialist.
+- 👋 Hi, I’m @ginarusso, a full-stack web developer/designer and educational technology specialist.
 - 👀 I’m interested in frontend development, physical computing and using microcontrollers, servo motors, light emitting diodes, breadboards, resistors, and other components and connecting them to real-world applications, designing fun, useful creations.
-- 🌱 My skills include Python & Raspberry Pi, HTML, CSS, Javascript, and React and I'm currently a code reviewer for Scrimba.
-- I'm currently enrolled in W3Schools' 6-month Full-stack Web Developer Bootcamp!
+- 🌱 My skills include Python & Raspberry Pi, HTML, CSS, Javascript, Postgres, Express, React, and Node (PERN), and I'm currently a code reviewer for Scrimba.
+- I've successfully completed W3Schools' 6-month Full-stack Web Developer Bootcamp!
 - My Scrimba playlists include my templates created using Canva:
   -   code reviews of solo projects created by Scrimba bootcamp students: https://scrimba.com/playlist/pENgeCM
   -   Javascript Scrimba tutorials: https://scrimba.com/playlist/p67LBHv
